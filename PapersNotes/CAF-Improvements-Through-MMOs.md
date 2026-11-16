@@ -47,3 +47,9 @@ Kyle (2016: 8) has explained that **syntactic complexity** is ‘the formal char
 amount of subordination), which has been described as absolute complexity (Bulté and Housen
 2012).’
 This measure can reveal the extent to which participants are able to combine smaller blocks of language (i.e. subordinate clauses) to produce more complex and extended syntactic turns (Foster et al. 2000).
+
+### Measures of morphosyntactic accuracy
+The morphosyntactic accuracy of participants’ speaking performance was assessed by calculating the percentages of erroneous clauses and AS-units.The error analysis here examined only ‘deviations in correctness’ and ignored ‘deviations in appropriateness’ (Ellis 1994: 52). Thus, errors in semantics and lexicon (meaning and vocabulary), phonology (pronunciation), and discourse (style), as well as self-corrected errors were discarded.
+
+### Measures of Fluency
+The measures used in this study are based on three sub-dimensions of utterance ﬂuency (Segalowitz 2010) proposed by Skehan (2003, 2009): breakdown (dys)ﬂuency, which acknowledges hesitation phenomena (i.e. silent and ﬁlled pauses); repair (dys)ﬂuency, which considers the occurrence of repetitions, reformulations, false starts, and replacements; and speed ﬂuency, which incorporates temporal characteristics of speech such as syllables per minute.
