@@ -31,13 +31,18 @@ Studied over six months
 
 ## Participants
 None of the EFL gamers selected had used voice chat to communicate during game play.
+F, MH, and MM are Team 1
+B, E, and M are Team 2
 
 ## Measurements
 
 ### Measures of Lexical Complexity
 **Lexical density** 'the ratio of the number of lexical - as opposed to grammtical - words to the number of words in a text'
+
 **Lexical sophistication** is ‘a measure of the proportion of relatively unusual or advanced words in
 the learner’s text’ (Read 2000: 203).
+1000 common words = 1k
+
 **Lexical variation / diversity / variety**  ‘the range of a learner’s vocabulary as displayed
 in his or her language use’ (Lu 2012: 192) or ‘the number of diﬀerent words in a sample of speech or
 writing of a set length’ (Malvern et al. 2004: 3). 
