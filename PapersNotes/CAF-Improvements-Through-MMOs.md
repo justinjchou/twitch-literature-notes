@@ -2,6 +2,7 @@
 Question: Does learners'/gamers' speaking performance improve over time?
 Two teams: Low-intermediate and high-intermediate proficiency
 Overall results "**positive** for the EFL gamers on both teams but in different ways."
+EFL = English Foreign Language
 "Speaking performance showed improvement of 50% of the CAF."
 
 ## Introduction
@@ -58,3 +59,16 @@ The morphosyntactic accuracy of participants’ speaking performance was assesse
 
 ### Measures of Fluency
 The measures used in this study are based on three sub-dimensions of utterance ﬂuency (Segalowitz 2010) proposed by Skehan (2003, 2009): breakdown (dys)ﬂuency, which acknowledges hesitation phenomena (i.e. silent and ﬁlled pauses); repair (dys)ﬂuency, which considers the occurrence of repetitions, reformulations, false starts, and replacements; and speed ﬂuency, which incorporates temporal characteristics of speech such as syllables per minute.
+
+### Fluency 
+Reinders and Wattana papers indicate that fluency is more than just CAF measurements.
+
+
+### Rating
+9.5 / 10
+-.5 off for acronyms of names. Would have preferred P1 (participant 1)
+
+###
+Further reading
+- Reinder and Wattana
+- Poole and Clarke-Midura 2020; Rankin, Gold, and Gooch 2006)
