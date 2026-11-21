@@ -3,23 +3,44 @@
 /* Removes quotes & spaces and converts to hyphens */
 /* Get the title copied and convert to title for notes markdown */
 // TODO file make (chapter 7)
+#define MAXTITLE 1000
+
 int main() {
-    int c;
+    int c; 
+    int i = 0;
+    int whitespace_count;
+    char title[MAXTITLE];
 
     printf("Input the Title \n");
 
-    while ((c = getchar()) != '\n') {
-        /* Removed the quotations */
-        if (c == '"')
+    while ((c = getchar()) != EOF) {
+        title[i] = c;
+        ++i;
+    }
+    title[i + 1] = '\0';
+    printf("%s", title);
+    char title_changed[i + 1];
+    i = 0;
+    for (int j = 0; j < MAXTITLE; ++j) {
+        title_changed[j] = title[i];
+        /*
+        if (title[i] == '"')
         {}
-        else if (c == ' ')
+        else if (title[i] == ' ' ||  title[i] == '\n' || title[i] == '-' || title[i] == ',')
         {
-            putchar('-');
+            ++whitespace_count;
+            if (whitespace_count == 1) {
+                putchar('-');
+            }
         }
         else 
         {
-            putchar(c);
+            whitespace_count = 0;
+            putchar(title[i]);
         }
+        */
     }
+    // printf("%s", title_changed);
     printf(".md");
+    printf("\n");
 }

@@ -11,3 +11,4 @@ During my Twitch stream, I allocate time to read and write notes on papers and b
 
 ## Research Papers Reading List
 - [ ] Complexity, accuracy, and fluency improvements through massively multiplayer online gaming: a longitudinal mixed-methods case study.
+- [ ] Happiness of lottery winners and parapalegics
